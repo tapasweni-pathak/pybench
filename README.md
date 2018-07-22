@@ -1,2 +1,3 @@
 # pybench
-comparison of python cluster computing libraries. https://wiki.python.org/moin/ParallelProcessing
+
+comparison of parallel processing and multiprocessing libraries in Python. https://wiki.python.org/moin/ParallelProcessing
